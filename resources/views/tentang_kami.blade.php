@@ -65,4 +65,35 @@
 </div>
 {{-- akhir visi misi --}}
 
+{{-- sejarah --}}
+<div class="sejarah my-5">
+    <div class="container">
+        <div class="sejarah-main">
+            <h1>Sejarah MJA</h1>
+            <div class="sejarah-content">
+                <img src="img/masjid.jpg" alt="">
+                <div class="">
+                    <h3 class="text-center">Lokasi</h3>
+                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae incidunt iste magnam tempora, mollitia praesentium. Aut officia natus, quo non pariatur repellat aliquid molestias eaque necessitatibus cumque rerum aspernatur. Nulla, minus nesciunt? Animi voluptatibus eos sint dignissimos quidem eius fugiat. Labore accusamus optio, non quaerat tempora accusantium id quidem provident!</p>
+                </div>
+            </div>
+            <div class="sejarah-content">
+                <div class="">
+                    <h3 class="text-center">Kepengurusan</h3>
+                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae incidunt iste magnam tempora, mollitia praesentium. Aut officia natus, quo non pariatur repellat aliquid molestias eaque necessitatibus cumque rerum aspernatur. Nulla, minus nesciunt? Animi voluptatibus eos sint dignissimos quidem eius fugiat. Labore accusamus optio, non quaerat tempora accusantium id quidem provident!</p>
+                </div>
+                <img src="img/masjid2.jpg" alt="">
+            </div>
+            <div class="sejarah-content">
+                <img src="img/masjid.jpg" alt="">
+                <div class="">
+                    <h3 class="text-center">Pembangunan</h3>
+                    <p class="text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vitae incidunt iste magnam tempora, mollitia praesentium. Aut officia natus, quo non pariatur repellat aliquid molestias eaque necessitatibus cumque rerum aspernatur. Nulla, minus nesciunt? Animi voluptatibus eos sint dignissimos quidem eius fugiat. Labore accusamus optio, non quaerat tempora accusantium id quidem provident!</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{{-- akhir sejarah --}}
+
 @endsection
